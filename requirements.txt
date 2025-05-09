@@ -1,2 +1,2 @@
 streamlit
-python-seo-analyzer
+git+https://github.com/sethblack/python-seo-analyzer.git
